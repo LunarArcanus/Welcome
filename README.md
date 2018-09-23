@@ -1,4 +1,4 @@
-# Welcome to my profile! If you need further information, my website is [Akashic Labs](http://www.akashiclabs.co.za)
+# Welcome to my profile! If you need further information, my website is [Akashic Labs](http://www.akashiclabs.co.za) You can also take a look at my [Blog](http://www.blog.akashiclabs.co.za).
 
 Here is an overview of some of my projects:
 
